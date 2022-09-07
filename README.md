@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm César López</h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=4000&pause=300&color=1CF700&center=true&multiline=true&width=800&height=75&lines=I'm+a+software+developer+who+enjoy++and+creates+things;with+code+and+hardware+electronics." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=4000&pause=500&color=1CF700&center=true&multiline=true&width=800&height=75&lines=I'm+a+software+developer+who+enjoy++and+creates+things;with+code+and+hardware+electronics." alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cecortes&label=Profile%20views&color=f221b0&style=flat" alt="cecortes" /> </p>
